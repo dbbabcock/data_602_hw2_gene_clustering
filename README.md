@@ -1,4 +1,3 @@
-# data_602_hw2_gene_clustering
 # DATA 602 Homework 2: Gene Clustering
 
 <h1>Purpose:</h1>
