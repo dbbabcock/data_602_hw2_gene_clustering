@@ -47,19 +47,3 @@ Pandas version used: 1.0.5
 <br>Numpy version used: 1.18.5
 <br>Scikit-learn version used: 0.23.1
 <br>Yellowbrick version used: 1.1
-
-<h1>Begin with initial EDA in this notebook:</h1>
-
-LINK
-
-<h1>Perform clustering and analysis in this notebook:</h1>
-
-LINK
-
-<h1>Construct the OLS regression and decision tree model in this notebook:</h1>
-
-LINK
-
-<h1>Final report of findings here:</h1>
-
-LINK
